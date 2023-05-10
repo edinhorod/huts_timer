@@ -15,25 +15,24 @@ Um timer feito para você dividir seu tempo no estilo pomodoro, em que consiste 
 
 ### Instalando
 
-* Clone o projeto: git clone <https://github.com/edinhorod/huts_timer>
-* Acesse a pasta: cd huts_timer
-* Instale as dependências: npm i ou npm install ou yarn
+* Clone o projeto: <b>git clone <https://github.com/edinhorod/huts_timer></b>
+* Acesse a pasta: <b>cd huts_timer</b>
+* Instale as dependências: <b>npm</b> i ou <b>npm install</b> ou <b>yarn</b>
 
 ### Executando programa
 
-* Rode o projeto: npx vite --port=400
+* Rode o projeto: <b>npx vite --port=400</b>
 * Acesse o site: <http://localhost:4000/>
 
 ## Ajuda
 
-Para maiores informações, acesse huts.com.br ou nos mande uma mensagem no [whatsapp](https://api.whatsapp.com/send?phone=5548996713742)
+Para maiores informações, acesse <https://huts.com.br> ou nos mande uma mensagem no [whatsapp](https://api.whatsapp.com/send?phone=5548996713742)
 
 ## Authors
 
 Nomes dos colaboradores e informações de contato
 
-ex. Edson Rodrigues  
-ex. [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
+Edson Rodrigues - [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
 
 ## Histórico da versão
 
@@ -42,7 +41,7 @@ ex. [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
 
 ## Licença
 
-Este projeto está licenciado sob a Open-source license
+Este projeto está licenciado sob a Open-source License
 
 ## Agradecimentos
 
