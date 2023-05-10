@@ -30,8 +30,6 @@ Para maiores informações, acesse <https://huts.com.br> ou nos mande uma mensag
 
 ## Authors
 
-Nomes dos colaboradores e informações de contato
-
 <b>Edson Rodrigues</b> - [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
 
 ## Histórico da versão
@@ -44,7 +42,5 @@ Nomes dos colaboradores e informações de contato
 Este projeto está licenciado sob a <b>Open-source License</b>
 
 ## Agradecimentos
-
-Inspiração, trechos de código, etc..
 
 * [Rocketseat](https://www.rocketseat.com.br/)
