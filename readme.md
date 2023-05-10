@@ -17,7 +17,7 @@ Um timer feito para você dividir seu tempo no estilo pomodoro, em que consiste 
 
 * Clone o projeto: <b>git clone <https://github.com/edinhorod/huts_timer></b>
 * Acesse a pasta: <b>cd huts_timer</b>
-* Instale as dependências: <b>npm</b> i ou <b>npm install</b> ou <b>yarn</b>
+* Instale as dependências: <b>npm i</b> ou <b>npm install</b> ou <b>yarn</b>
 
 ### Executando programa
 
@@ -32,7 +32,7 @@ Para maiores informações, acesse <https://huts.com.br> ou nos mande uma mensag
 
 Nomes dos colaboradores e informações de contato
 
-Edson Rodrigues - [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
+<b>Edson Rodrigues</b> - [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
 
 ## Histórico da versão
 
@@ -41,7 +41,7 @@ Edson Rodrigues - [Linkedin](https://www.linkedin.com/in/edinhorodrigues/)
 
 ## Licença
 
-Este projeto está licenciado sob a Open-source License
+Este projeto está licenciado sob a <b>Open-source License</b>
 
 ## Agradecimentos
 
